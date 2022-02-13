@@ -9,7 +9,7 @@ p {margin: 0;}
 html, body{
 	font-family: 'OpenSans-Regular';
 	font-size: 100%;
-	background: #ffffff;
+	background: #3b0609;
 }
 @font-face {
    font-family: 'OpenSans-Regular';
@@ -223,7 +223,7 @@ color:#000 !important;
 	text-align:center;
 }
 .caption h3{
-  color: #ffffff;
+  color: #3b0609;
   font-size: 2.8em;
    font-family: 'Play-Bold';
 }
@@ -231,7 +231,7 @@ color:#000 !important;
 	line-height: 1.8em;
 	font-size: 1em;
 	font-weight: 400;
-	color:#ffffff;
+	color:#3b0609;
 	width: 60%;
 	margin:1em auto 0 auto;
 }
@@ -339,7 +339,7 @@ ul.callbacks_tabs.callbacks1_tabs {
 }
 .new-trailers h3 {
   padding: 0.5em;
-  background-color: #F4F4F4;
+  background-color: #3b0609;
   color: #000;
   text-align: center;
   font-size: 2em;
@@ -368,7 +368,7 @@ ul.callbacks_tabs.callbacks1_tabs {
 }
 .sub-text a {
   padding: 0.5em;
-  background-color: #F4F4F4;
+  background-color: #3b0609;
   font-size:1.2em;
   color: #5bb2fc;
   font-family: 'Play-Regular';
