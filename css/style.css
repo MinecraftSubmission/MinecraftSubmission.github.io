@@ -223,7 +223,7 @@ color:#000 !important;
 	text-align:center;
 }
 .caption h3{
-  color: #3b0609;
+  color: #fff;
   font-size: 2.8em;
    font-family: 'Play-Bold';
 }
@@ -231,7 +231,7 @@ color:#000 !important;
 	line-height: 1.8em;
 	font-size: 1em;
 	font-weight: 400;
-	color:#3b0609;
+	color:#fff;
 	width: 60%;
 	margin:1em auto 0 auto;
 }
